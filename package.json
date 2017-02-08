@@ -1,0 +1,19 @@
+{
+  "name": "discord-giveaway-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": ".giveaway"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phyxsius21/discord-giveaway-bot.git"
+  },
+  "author": "Phyxsius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phyxsius21/discord-giveaway-bot/issues"
+  },
+  "homepage": "https://github.com/Phyxsius21/discord-giveaway-bot#readme"
+}
